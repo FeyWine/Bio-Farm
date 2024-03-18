@@ -1,5 +1,8 @@
 body {
 	background-color:#ffffff;
+	display:flex;
+	height: auto;
+	margin: 0;
 }
 
 .Titre {
